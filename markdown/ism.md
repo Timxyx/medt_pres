@@ -5,11 +5,12 @@ Djon Timothy
 ---
 
 ## Überblick
-- Definitionen
-- Konzepte
-- Theorie
-- Anwendung
-- Beispiele
+- Schärfe/Unschärfe
+- Schärfentiefe
+- Anwendungen der selektiven Schärfe
+- Bewegungsunschärfe
+- Verwendung
+
 
 ---
 
@@ -31,6 +32,14 @@ Djon Timothy
 <img width="100%" src="./assets/bunter-blickfang.jpeg" alt="drawing"/>
 
 ---
+#### Schärfentiefe Definition
+
+Ein Maß zur Ausdehnung des scharfen Bereichs im Objektraum.
+
+Der Begriff spielt in der Fotografie eine zentrale Rolle und beschreibt die Größe des Entfernungsbereichs, innerhalb dessen ein Objekt hinlänglich scharf abgebildet wird. In der Regel wird eine große Schärfentiefe durch kleine Blendenöffnungen oder Objektive mit kurzen Brennweiten erreicht: Von vorn bis hinten sieht dann alles mehr oder weniger scharf aus.
+
+
+---
 
 Das erreichbare Maß an Schärfentiefe hängt von vier Faktoren ab:
 
@@ -40,6 +49,10 @@ Das erreichbare Maß an Schärfentiefe hängt von vier Faktoren ab:
 -   und Aufnahmeformat
 
 Für die Blende gilt: große Öffnung, wenig Schärfentiefe – kleine Öffnung, viel Schärfentiefe.
+
+---
+
+## Mit Schärfe gestalten
 
 ---
 
@@ -68,6 +81,19 @@ Für die Blende gilt: große Öffnung, wenig Schärfentiefe – kleine Öffnung,
 
 ---
 
+#### Bewegungsunschärfe
+
+
+<img width="100%" src="./assets/../../assets/ungewollte-bewungsunschaerfe.jpg" alt="drawing"/>
+
+
+---
+
+#### Bewegungsunschärfe
+
+<img width="100%" src="./assets/../../assets/gewollte-bewegungsunschaerfe.jpg" alt="drawing"/>
+
+---
 ## Wie scharf muss ein Foto sein?
 
 ---
@@ -79,3 +105,10 @@ Für die Blende gilt: große Öffnung, wenig Schärfentiefe – kleine Öffnung,
 
 <img width="120%" src="./assets/lake-1802337__340.jpg" alt="drawing"/>
 
+---
+
+### Quellen
+
+<a href="https://de.wikipedia.org/wiki/Sch%C3%A4rfentiefe">https://de.wikipedia.org/wiki/Sch%C3%A4rfentiefe</a>
+<a href="https://www.terobesarts.de/enzyklopaedie/blende/">https://www.terobesarts.de/enzyklopaedie/blende/</a>
+<a href="https://fotoschule.fotocommunity.de/selektive-schaerfe-das-wechselspiel-von-schaerfe-und-unschaerfe/">https://fotoschule.fotocommunity.de/selektive-schaerfe-das-wechselspiel-von-schaerfe-und-unschaerfe/</a>
