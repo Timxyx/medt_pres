@@ -84,14 +84,14 @@ Für die Blende gilt: große Öffnung, wenig Schärfentiefe – kleine Öffnung,
 #### Bewegungsunschärfe
 
 
-<img width="100%" src="./assets/../../assets/ungewollte-bewungsunschaerfe.jpg" alt="drawing"/>
+<img width="100%" src="./assets/ungewollte-bewungsunschaerfe.jpg" alt="drawing"/>
 
 
 ---
 
 #### Bewegungsunschärfe
 
-<img width="100%" src="./assets/../../assets/gewollte-bewegungsunschaerfe.jpg" alt="drawing"/>
+<img width="100%" src="./assets/gewollte-bewegungsunschaerfe.jpg" alt="drawing"/>
 
 ---
 ## Wie scharf muss ein Foto sein?
