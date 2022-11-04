@@ -110,5 +110,7 @@ Für die Blende gilt: große Öffnung, wenig Schärfentiefe – kleine Öffnung,
 ### Quellen
 
 <a href="https://de.wikipedia.org/wiki/Sch%C3%A4rfentiefe">https://de.wikipedia.org/wiki/Sch%C3%A4rfentiefe</a>
+
 <a href="https://www.terobesarts.de/enzyklopaedie/blende/">https://www.terobesarts.de/enzyklopaedie/blende/</a>
+
 <a href="https://fotoschule.fotocommunity.de/selektive-schaerfe-das-wechselspiel-von-schaerfe-und-unschaerfe/">https://fotoschule.fotocommunity.de/selektive-schaerfe-das-wechselspiel-von-schaerfe-und-unschaerfe/</a>
