@@ -32,11 +32,11 @@ Djon Timothy
 <img width="100%" src="./assets/bunter-blickfang.jpeg" alt="drawing"/>
 
 ---
-#### Schärfentiefe Definition
+### Schärfentiefe
 
 Ein Maß zur Ausdehnung des scharfen Bereichs im Objektraum.
 
-Der Begriff spielt in der Fotografie eine zentrale Rolle und beschreibt die Größe des Entfernungsbereichs, innerhalb dessen ein Objekt hinlänglich scharf abgebildet wird. In der Regel wird eine große Schärfentiefe durch kleine Blendenöffnungen oder Objektive mit kurzen Brennweiten erreicht: Von vorn bis hinten sieht dann alles mehr oder weniger scharf aus.
+
 
 
 ---
